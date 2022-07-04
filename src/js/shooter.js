@@ -93,7 +93,7 @@
   };
 
   const createPlayer = () => {
-    const player = new Player('_', { x: 250, y: 100 }, { dx: 3, dy: 3 });
+    const player = new Player('_', { x: 250, y: 100 }, { dx: 8, dy: 8 });
     return player;
   };
 
