@@ -4,4 +4,4 @@
   };
 
   window.onload = startGame;
-});
+})();
